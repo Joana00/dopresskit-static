@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- example file containing base tags -->
 
-<game>	
-	<title>Company Name</title>
-	<founding-date>September 1, 2010</founding-date>
-	<website>http://www.website.com</website>
-	<based-in>Cityville, Metropolisland</based-in>
+<Time is up>	
+	<title>LTS</title>
+	<founding-date>April 20, 2018</founding-date>
+	<website>http://www.Time-is-up.github.io.com</website>
+	<based-in>Luxembourg, Esch</based-in>
 	
 	<press-contact>press-contact@company.com</press-contact>
 	<phone>+00 (1) 22 33 44 55 66</phone>
@@ -48,7 +48,7 @@
 	<trailers>
 		<trailer>
 			<name>This video is nice</name>
-			<youtube>7jQbITg0MSk</youtube>
+			<youtube>C:\Users\user\Desktop\Trailer Time's up.avi</youtube>
 		</trailer>
 		<trailer>
 			<name>This one too</name>
